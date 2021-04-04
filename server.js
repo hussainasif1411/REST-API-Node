@@ -21,10 +21,10 @@ app.use(router);
 //app.use(client);
 
 /*const client = new Client({
-    user: 'postgres',
-    host: 'pgty.culspqqylzzq.ap-south-1.rds.amazonaws.com',
-    database: 'postgresnew',
-    password: 'testyoudb',
+    user: '',
+    host: '',
+    database: '',
+    password: '',
 });*/
 
 //client.connect();
